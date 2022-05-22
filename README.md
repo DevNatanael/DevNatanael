@@ -1,8 +1,8 @@
-### Olá me chamo Natanael 👋
+### Hi my name is Natanael 👋
 
 
-- 🔭 Atualmente trabalho com front-end 
-- 🌱 Estudando React Native
+- 🔭 Currently working with front-end
+- 🌱 Studying React Native
 
 <div>
   <a href="https://github.com/DevNatanael">

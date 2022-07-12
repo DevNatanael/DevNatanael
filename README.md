@@ -2,7 +2,7 @@
 
 
 - 🔭 Currently working with front-end
-- 🌱 Studying React Native
+- 🌱 Studying Typescript
 
 <div>
   <a href="https://github.com/DevNatanael">

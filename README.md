@@ -1,8 +1,8 @@
 ### Hi my name is Natanael 👋
 
 
-- 🔭 Currently working with front-end
-- 🌱 Studying Ruby on Rails
+- 🔭 Currently working with reactjs, react-native and nodejs
+- 🌱 Studying java
 
 <div>
   <a href="https://github.com/DevNatanael">

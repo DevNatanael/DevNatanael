@@ -1,7 +1,8 @@
 ### Hi my name is Natanael 👋
 
-
-- 🔭 Currently working with reactjs, react-native and nodejs
+- 🧑‍💻 I'm a full stack developer, currently working at Tijuca Alimentos since 2021
+- 🔭 Currently working with Reactjs, React-native and Nodejs
+- 📚 I am a student of the computer science course at the University of Fortaleza (Unifor)
 - 🌱 Studying flutter
 
 <div>

@@ -3,7 +3,7 @@
 - 🧑‍💻 I'm a full stack developer, currently working at Tijuca Alimentos since 2021
 - 🔭 Currently working with Reactjs, React-native and Nodejs
 - 📚 I am a student of the computer science course at the University of Fortaleza (Unifor)
-- 🌱 Studying flutter
+- 🌱 Studying java
 
 <div>
 <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
